@@ -17,3 +17,8 @@ I build 2D arcade games, write clean Python scripts, and actively engage in the 
 * Passionate about esports as well as sports like basketball, badminton, and football.
 * Enjoy listening to and watching various podcasts.
 * Always try to balancing theory with hands-on project building.
+
+
+
+
+[![Danmachii's GitHub stats](https://github-stats-extended.vercel.app/api?username=Danmachii&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
