@@ -1,24 +1,9 @@
-### Hey there! 👋
+### Hi, I'm Zamm! 👋
 
-I'm **Zamm**, an Informatics Engineering student at Institut Teknologi Sepuluh Nopember (ITS) 💻.
-
-I build 2D arcade games, write clean Python scripts, and actively engage in the competitive esports community. With my analytical skills, I love analyzing and watching esports matches.
-
-### What I'm currently working on:
-* Developing custom 2D arcade games in Python
-* Deepening my understanding of **Object-Oriented Programming (OOP)** concepts and clean architecture.
-* Exploring computer networking and system administration labs.
-
-### Tech Stack
-* **Languages:** Python, SQL, C/C++
-* **Tools:** Visual Studio Code, Git, GitHub, GNS3, Linux
-
-### Fun Facts:
-* Passionate about esports as well as sports like basketball, badminton, and football.
-* Enjoy listening to and watching various podcasts.
-* Always try to balancing theory with hands-on project building.
-
-
-
+💻 Building personal projects — from 2D arcade games to clean Python scripts  
+🎓 Studying Informatics Engineering at Institut Teknologi Sepuluh Nopember (ITS)  
+🛠️ Tech stack: Python, C/C++, SQL, Git, Linux, and GNS3  
+🚀 Currently diving deeper into OOP architecture, networking, and sysadmin labs  
+🎮 Esports enthusiast — also into basketball, badminton, football, and podcasts  
 
 [![Danmachii's GitHub stats](https://github-stats-extended.vercel.app/api?username=Danmachii&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
