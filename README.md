@@ -9,10 +9,9 @@ I build 2D arcade games, write clean Python scripts, and actively engage in the 
 * Deepening my understanding of **Object-Oriented Programming (OOP)** concepts and clean architecture.
 * Exploring computer networking and system administration labs.
 
-### What tools do I use?
-* **Languages:** Python, SQL
-* **Frameworks:** Pygame
-* **Environment & Tools:** Visual Studio Code, Git, GitHub, GNS3, Linux
+### Tech Stack
+* **Languages:** Python, SQL, C/C++
+* **Tools:** Visual Studio Code, Git, GitHub, GNS3, Linux
 
 ### Fun Facts:
 * Passionate about esports as well as sports like basketball, badminton, and football.
